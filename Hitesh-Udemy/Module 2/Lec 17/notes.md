@@ -1,9 +1,9 @@
-#What i learned ?
+# 📘 What I Learned (Node.js Basics)
 
- --> more node commands (basic that I already knew)
- --> running js file from CLI 
-           *node script.js* 
+## 1. Node.js Commands
+- Learned more **basic Node.js commands** (beyond the ones I already knew).
 
- --> learnt about comments like 
-        *node --help*
-        *node --watch script.js*  --> track always the file inspite of changed ,  no need to restart         
+## 2. Running JavaScript from CLI
+- Run a JS file directly from the command line:
+  ```bash
+  node script.js
