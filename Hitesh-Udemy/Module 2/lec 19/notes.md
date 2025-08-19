@@ -17,7 +17,7 @@
 
 # Working 
 ### when node script.js is typed , node will read this file , which internally has a wrapper fnx , the source code is injectd inn wrapper fnx, which is not available in browser --> mantained by node.js team .
-##first it checks if there is a 3rd party module , built in module , else throw ann error 
+###first it checks if there is a 3rd party module , built in module , else throw ann error 
 ```reruie("./fs")
 the ./ will search if there is any built in module in current directory --> not found so error 
 require("x")
