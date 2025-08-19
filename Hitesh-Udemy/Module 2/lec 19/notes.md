@@ -13,5 +13,6 @@
 # ✨ File System (FS Module)
   ### it is a module that works on file system
    ### It is a object that has many func. 
-       *we can se by cnsole.log(fs)*
+       *we can see by console.log(fs)*
 
+>const fs = require('node:fs');
